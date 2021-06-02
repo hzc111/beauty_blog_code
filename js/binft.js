@@ -1,5 +1,4 @@
-<script>
-    var binft = function (r) {
+  var binft = function (r) {
       function t() {
         return b[Math.floor(Math.random() * b.length)]
       }
@@ -38,4 +37,3 @@
       i()
       };
       binft(document.getElementById('binft'));
-  </script>
